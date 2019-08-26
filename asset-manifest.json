@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-random-color-generator/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-random-color-generator/static/js/main.31c4ad5f.chunk.js",
-    "main.js.map": "/react-random-color-generator/static/js/main.31c4ad5f.chunk.js.map",
+    "main.js": "/react-random-color-generator/static/js/main.8e05ce8c.chunk.js",
+    "main.js.map": "/react-random-color-generator/static/js/main.8e05ce8c.chunk.js.map",
     "runtime~main.js": "/react-random-color-generator/static/js/runtime~main.4b14ef73.js",
     "runtime~main.js.map": "/react-random-color-generator/static/js/runtime~main.4b14ef73.js.map",
-    "static/js/2.8321d41d.chunk.js": "/react-random-color-generator/static/js/2.8321d41d.chunk.js",
-    "static/js/2.8321d41d.chunk.js.map": "/react-random-color-generator/static/js/2.8321d41d.chunk.js.map",
+    "static/js/2.d310f8f0.chunk.js": "/react-random-color-generator/static/js/2.d310f8f0.chunk.js",
+    "static/js/2.d310f8f0.chunk.js.map": "/react-random-color-generator/static/js/2.d310f8f0.chunk.js.map",
     "index.html": "/react-random-color-generator/index.html",
-    "precache-manifest.e28204eab74d8b48e9f41465f7cf5d9d.js": "/react-random-color-generator/precache-manifest.e28204eab74d8b48e9f41465f7cf5d9d.js",
+    "precache-manifest.1f3bb29950f3ca2e44addc37f8d0a870.js": "/react-random-color-generator/precache-manifest.1f3bb29950f3ca2e44addc37f8d0a870.js",
     "service-worker.js": "/react-random-color-generator/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/react-random-color-generator/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/react-random-color-generator/static/media/logo.5d5d9eef.svg"
